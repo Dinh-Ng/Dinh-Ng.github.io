@@ -4,5 +4,13 @@
     "header": "Characters",
     "title": "Genshin Impact Characters List",
     "placeholderFilter": "Search for a character..."
+  },
+  "farming": {
+    "header": "Farming Guide",
+    "title": "Genshin Impact Farming Location Guide",
+    "headerTalent": "Character Talents Materials",
+    "material": "Material",
+    "days": "Days",
+    "characters": "Characters"
   }
 }

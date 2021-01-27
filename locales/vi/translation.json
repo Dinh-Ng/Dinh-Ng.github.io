@@ -4,5 +4,13 @@
     "header": "Nhân vật",
     "title": "Danh sách nhân vật của Genshin Impact",
     "placeholderFilter": "Tìm kiếm một nhân vật..."
+  },
+  "farming": {
+    "header": "Hướng dẫn Thu thập",
+    "title": "Hướng dẫn Thu thập",
+    "headerTalent": "Nguyên liệu Thiên phú Nhân Vật",
+    "material": "Nguyên liệu",
+    "days": "Ngày",
+    "characters": "Nhân vật"
   }
 }
