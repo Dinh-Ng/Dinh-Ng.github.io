@@ -13,5 +13,21 @@
     "days": "Ngày",
     "characters": "Nhân vật",
     "headerCharacterAscension": "Nguyên liệu Đột phá Nhân vật"
+  },
+  "tierList": {
+    "header": "Xếp hạng",
+    "title": "Xếp hạng Nhân vật Genshin Impact",
+    "mainDPS": "DPS Chính",
+    "mainDpsDecryption": "",
+    "subDPS": "DPS Phụ",
+    "subDpsDecryption": "",
+    "support": "Hỗ trợ",
+    "supportDecryption": "",
+    "unit": "Nhân vật",
+    "comment": "Nhận xét",
+    "single": "Đơn mục tiêu",
+    "aoe": "Đa mục tiêu",
+    "buff": "Buff / Khống chế",
+    "heal": "Hồi máu / Chống chịu"
   }
 }

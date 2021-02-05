@@ -13,5 +13,21 @@
     "days": "Days",
     "characters": "Characters",
     "headerCharacterAscension": "Character Ascension Materials"
+  },
+  "tierList": {
+    "header": "Tier List",
+    "title": "Genshin Impact Best Characters Tier List",
+    "mainDPS": "Main DPS",
+    "mainDpsDecryption": "Units who serve as the core of your team and fill the gaps in your rotation",
+    "subDPS": "Sub DPS",
+    "subDpsDecryption": "Units who provide damage through their skills and bursts as well as by helping create reactions",
+    "support": "Support",
+    "supportDecryption": "Units who provide utility such as buffs, debuffs, CC or survivability",
+    "unit": "Unit",
+    "comment": "Comment",
+    "single": "Single",
+    "aoe": "AoE",
+    "buff": "Buff / CC",
+    "heal": "Heal / Tank"
   }
 }
