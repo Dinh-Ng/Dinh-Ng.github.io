@@ -29,5 +29,13 @@
     "aoe": "AoE",
     "buff": "Buff / CC",
     "heal": "Heal / Tank"
+  },
+  "weapon": {
+    "header": "Weapon",
+    "title": "Genshin Impact Weapons List",
+    "placeholderFilter": "Search for a weapon...",
+    "type": "Type",
+    "secondary": "Secondary",
+    "location": "Location"
   }
 }

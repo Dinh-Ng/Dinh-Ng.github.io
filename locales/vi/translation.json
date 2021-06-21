@@ -29,5 +29,13 @@
     "aoe": "Đa mục tiêu",
     "buff": "Buff / Khống chế",
     "heal": "Hồi máu / Chống chịu"
+  },
+  "weapon": {
+    "header": "Vũ khí",
+    "title": "Danh sách vũ khí của Genshin Impact",
+    "placeholderFilter": "Tìm kiếm vũ khí...",
+    "type": "Loại",
+    "secondary": "Dòng phụ",
+    "location": "Cách nhận"
   }
 }
