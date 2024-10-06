@@ -3,9 +3,14 @@ const container = document.getElementById("container");
 
 // Mảng chứa dữ liệu các item (bạn có thể thay đổi dữ liệu này)
 const items = [
-    { text: "truyenqq", link: "https://truyenqqto.com" },
-    { text: "Facebook", link: "https://www.facebook.com" },
-    { text: "YouTube", link: "https://www.youtube.com" },
+    { text: "Truyenqq", link: "https://truyenqqto.com" },
+    { text: "HoyoMap", link: "https://act.hoyolab.com/ys/app/interactive-map/index.html" },
+    { text: "Seelie", link: "https://seelie.me/planner" },
+    { text: "Seelie ZZZ", link: "https://zzz.seelie.me/planner" },
+    { text: "HoyoMap", link: "https://act.hoyolab.com/ys/app/interactive-map/index.html" },
+    { text: "Genshin Material", link: "https://docs.google.com/spreadsheets/d/19FZsuNH-_1vd5Np5OFKWJWVOQXBpE0D-GLlIjxdAuAM/edit?ouid=110511358014061828669&usp=sheets_home&ths=true" },
+    { text: "Genshin Primogem Counter", link: "https://docs.google.com/spreadsheets/d/1ziDADtCxijE-pJROcL4qoVu8jryYIwPFWbyeKSXG5vA" },
+    { text: "", link: "" },
 ];
 
 // Tạo các button và append vào container
