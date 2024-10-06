@@ -16,12 +16,12 @@ const items = [
 // Tạo các button và append vào container
 items.forEach(item => {
     const button = document.createElement("button");
-    button.textContent = item.text;
 
     // Tạo element image và append vào button
     const image = document.createElement("img");
     image.src = "http://www.google.com/s2/favicons?domain=" + item.link;
     button.appendChild(image);
+    button.textContent = item.text;
 
     // Thêm sự kiện onclick để chuyển hướng
     button.onclick = function () {
