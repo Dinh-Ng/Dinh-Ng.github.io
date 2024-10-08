@@ -1,9 +1,14 @@
+body {
+  margin: 0;
+}
+
 #container {
   height: 100vh;
   width: 100vw;
   display: flex;
   justify-content: center;
   align-items: center;
+  background-color: #333; /* Dark background color */
 }
 
 #bookmark {
@@ -33,7 +38,7 @@ a > img {
 }
 
 a > p {
-  color: black;
+  color: white;
   max-lines: 1;
   /* text-wrap: nowrap; */
   overflow: hidden;
