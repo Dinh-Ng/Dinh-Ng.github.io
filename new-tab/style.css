@@ -1,0 +1,15 @@
+#container {
+  /* display: flex;
+  flex-direction: column; */
+}
+
+button {
+  padding: 10px;
+  margin: 5px;
+}
+
+button > img {
+  width: 20px;
+  height: 20px;
+  margin-left: 5px;
+}
